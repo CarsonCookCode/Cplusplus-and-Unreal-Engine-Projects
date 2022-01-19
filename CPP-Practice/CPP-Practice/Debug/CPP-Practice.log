@@ -1,0 +1,3 @@
+﻿  CPP-Practice.cpp
+C:\Users\carso\Github_Repos\Cplusplus-and-Unreal-Engine-Projects\Cplusplus-and-Unreal-Engine-Projects\CPP-Practice\CPP-Practice\CPP-Practice.cpp(129,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CPP-Practice.vcxproj -> C:\Users\carso\Github_Repos\Cplusplus-and-Unreal-Engine-Projects\Cplusplus-and-Unreal-Engine-Projects\CPP-Practice\Debug\CPP-Practice.exe
